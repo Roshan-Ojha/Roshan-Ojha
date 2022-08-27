@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React<br>💬 Ask me why computer enthusiast should not study Computer Engineering in Nepal<br>⚡ I can spend whole night gawking at the same leetcode problem
+🌱 I’m currently learning React<br>💬 Ask me why computer enthusiast should not study Computer Engineering in Nepal. At least not in TU<br>⚡ I can spend whole night gawking at the same leetcode problem
 
 
 ## 🌐 Socials:
